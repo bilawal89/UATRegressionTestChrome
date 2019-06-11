@@ -1,0 +1,120 @@
+23:20:23.998 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-caret-down'][11]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 9652ff88e1f6fbea0f94d59aad61f355
+*** Element info: {Using=xpath, value=//i[@class='fa fa-caret-down'][11]}
+23:36:47.498 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-caret-down'][11]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 3d3822245205e60039ae41892d9eb409
+*** Element info: {Using=xpath, value=//i[@class='fa fa-caret-down'][11]}
+23:38:57.022 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-caret-down'][11]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 3ec4d9e5e0ef1eb7e7af4e0321116743
+*** Element info: {Using=xpath, value=//i[@class='fa fa-caret-down'][11]}
+23:41:27.177 [main] INFO  resources.base - User has reached the Standard Catalog Page
+23:52:01.152 [main] INFO  resources.base - User has reached the Standard Catalog Page
+23:52:17.428 [main] INFO  resources.base - User has reached the PDP page after clicking on the first bundle Product
+23:52:43.569 [main] INFO  resources.base - User has successfully add the Standard Product to the cart
+23:52:43.909 [main] INFO  resources.base - After clicking on the email link the email dialog box has open
+23:53:02.187 [main] INFO  resources.base - User is able to send the email from the standad catalog PDP page
+23:53:15.216 [main] INFO  resources.base - user is searching printer using the search textbox
+23:54:12.429 [main] INFO  resources.base - Product has successfully added to Favorites
+23:54:12.728 [main] INFO  resources.base - After clicking on the email link the email dialog box has open
+23:54:49.404 [main] INFO  resources.base - user is searching printer using the search textbox
+23:55:40.187 [main] INFO  resources.base - User Have Successfully reached the Compare page
+23:55:40.702 [main] INFO  resources.base - Product has successfully added to Favorites
+23:57:09.035 [main] INFO  resources.base - User has clicked on the Track Nevigation Icon
+23:57:10.240 [main] INFO  resources.base - User has clicked on the Buy Item Again Button
+23:57:33.048 [main] INFO  resources.base - User has clicked on the close icon on the Buy Item Again Modal
+23:57:39.121 [main] INFO  resources.base - User has clicked on the Calendar Circle
+23:57:43.703 [main] INFO  resources.base - User has clicked on the first Link from the calendar Section
+23:57:48.826 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+23:57:52.141 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+23:58:12.371 [main] INFO  resources.base - User has clicked Edit Profile button
+23:58:27.076 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+23:58:29.886 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+23:58:37.673 [main] INFO  resources.base - User has clicked Edit Profile button 2nd time
+23:58:37.870 [main] INFO  resources.base - User has selected the Home Page as Shop Page again
+23:58:37.968 [main] INFO  resources.base - User has Again clicked the SAve Button
+23:58:55.252 [main] INFO  resources.base - User has Clicked on the SHop Icon from the Header
+23:58:58.907 [main] INFO  resources.base - User has Clicked on the recently viewed Link on the Home Page
+23:58:58.971 [main] INFO  resources.base - User has reached the Recently viewed screen after clicking on the recently view link from the home page
+23:58:59.070 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+00:02:52.016 [main] INFO  resources.base - User has clicked on the Track Button
+00:03:14.866 [main] INFO  resources.base - User has clicked on the Purchase Analysis Icon
+00:04:49.345 [main] INFO  resources.base - User has clicked on the Track Button
+01:01:56.063 [main] INFO  resources.base - user is searching printer using the search textbox
+01:03:29.556 [main] INFO  resources.base - User Have Successfully reached the Compare page
+01:03:30.299 [main] INFO  resources.base - Product has successfully added to Favorites
+01:12:54.793 [main] INFO  resources.base - user is searching printer using the search textbox
+01:13:47.373 [main] INFO  resources.base - User Have Successfully reached the Compare page
+01:13:47.985 [main] INFO  resources.base - Product has successfully added to Favorites
+02:45:43.311 [main] INFO  resources.base - User has reached the Standard Catalog Page
+02:56:20.021 [main] INFO  resources.base - User has reached the Standard Catalog Page
+02:56:36.109 [main] INFO  resources.base - User has reached the PDP page after clicking on the first bundle Product
+02:56:56.012 [main] INFO  resources.base - User has successfully add the Standard Product to the cart
+02:56:56.381 [main] INFO  resources.base - After clicking on the email link the email dialog box has open
+02:57:16.614 [main] INFO  resources.base - User is able to send the email from the standad catalog PDP page
+02:57:30.206 [main] INFO  resources.base - user is searching printer using the search textbox
+02:58:27.417 [main] INFO  resources.base - Product has successfully added to Favorites
+02:58:27.770 [main] INFO  resources.base - After clicking on the email link the email dialog box has open
+02:59:04.377 [main] INFO  resources.base - user is searching printer using the search textbox
+02:59:48.007 [main] INFO  resources.base - User Have Successfully reached the Compare page
+02:59:48.537 [main] INFO  resources.base - Product has successfully added to Favorites
+03:01:15.259 [main] INFO  resources.base - User has clicked on the Track Nevigation Icon
+03:01:16.560 [main] INFO  resources.base - User has clicked on the Buy Item Again Button
+03:02:06.936 [main] ERROR resources.base - unknown error: Element <i aria-hidden="true" class="fa fa-caret-down"></i> is not clickable at point (846, 58). Other element would receive the click: <div id="loadingMask" class="connection-loader tenlayer "></div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: ab4337badb5b3c1de6111ea85cbe2bc3
+04:00:03.069 [main] INFO  resources.base - User has reached the Standard Catalog Page
+04:09:54.905 [main] ERROR resources.base - unknown error: Element <i aria-hidden="true" class="fa fa-caret-down"></i> is not clickable at point (846, 30). Other element would receive the click: <div role="dialog" class="modal" style="display: block;">...</div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 35d77a6eca4c90dcdddd2b4b3e8a6b42
+21:48:59.495 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+21:49:03.214 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+21:49:26.344 [main] INFO  resources.base - User has clicked Edit Profile button
+21:49:44.209 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+21:49:47.421 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+21:49:56.492 [main] INFO  resources.base - User has clicked Edit Profile button 2nd time
+21:49:56.827 [main] INFO  resources.base - User has selected the Home Page as Shop Page again
+21:49:56.932 [main] INFO  resources.base - User has Again clicked the SAve Button
+12:26:19.295 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+12:26:30.629 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+12:26:56.056 [main] INFO  resources.base - User has clicked Edit Profile button
+12:27:13.582 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+12:27:17.015 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+12:27:26.459 [main] INFO  resources.base - User has clicked Edit Profile button 2nd time
+12:27:26.635 [main] INFO  resources.base - User has selected the Home Page as Shop Page again
+12:27:26.732 [main] INFO  resources.base - User has Again clicked the SAve Button
